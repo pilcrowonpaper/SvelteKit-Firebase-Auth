@@ -1,3 +1,5 @@
+**Firebase is NOT built for SSR sites. Check out [Lucia](https://github.com/pilcrowOnPaper/lucia-sveltekit) or [Supabase Auth Helpers](https://github.com/supabase/auth-helpers/tree/main/packages/sveltekit) for a better experience, both for the developer and user**
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
